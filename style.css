@@ -1,0 +1,107 @@
+ h1{
+  
+    background-color: rgb(194, 22, 22);
+    text-align: center;
+    
+    color:white;
+   }
+
+#div2{
+
+    float: left;
+    width: 800px;
+    height: 700px;
+    background-color: teal;
+    margin:10px 50px 40px 200px;
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0  rgb(0, 0, 0,0.2);
+}
+#div2:hover{
+    box-shadow: 0 16px 32px 0 rgb(0, 0, 0,0.2);
+
+}
+#div2 h2{
+
+    color:black;
+    margin:20px;
+}
+
+.pro{
+    color:red;
+    font-size: 20px;
+    margin:20px
+}
+p{
+    color: white;
+    margin: 20px;
+}
+ul{
+    color:white;
+}
+#div3{
+
+    float:left;
+    width: 700px;
+    height: 500px;
+    background-color: turquoise;
+    border-radius: 20px;
+    margin:10px 50px 40px 30px;
+    box-shadow: 0 4px 8px 0  rgb(0, 0, 0,0.2);
+}
+#div3:hover{
+    box-shadow: 0 16px 32px 0  rgb(0, 0, 0,0.2);
+
+
+}
+#img{
+    border-radius: 50%;
+    width: 150px;
+    height: 100px;
+    margin: 10px 10px 40px 40px;
+    float:left;
+    border: 1px solid white;
+}
+#hr{
+    border: 1px solid rgb(202, 15, 15);
+    clear: both;
+    margin:10px 10px 40px 10px;
+    
+    
+}
+h3{
+   
+    margin:20px;
+}
+#ri{
+    font-size: 20px;
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#div4{
+    float:left;
+    margin:30px 70px 100px -160px;
+
+}
+#div4 ul{}
+#div4 ul li{
+    list-style-type: none;
+}
+#div4 ul li a{
+    text-decoration: none;
+}
+#div4 ul li a:hover{
+    text-decoration: underline;
+}
+.para2{
+    float:left;
+    margin:20px;
+
+}
+
+
+
+
+
+
